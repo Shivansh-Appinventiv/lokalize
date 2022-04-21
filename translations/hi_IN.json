@@ -1,0 +1,9 @@
+{
+    "abcd": "अंग्रेज़ी",
+    "date_format_one": "{{-date, YYYY\/MM\/DD}}",
+    "date_format_two": "{{date, DD-MM-YYYY}}",
+    "hello": "नमस्ते दुनिया",
+    "keyWithCount": "ऐनी ने {{count}} किताब खरीदी है",
+    "keyWithCount_plural": "ऐनी ने {{count}} किताबें खरीदी हैं",
+    "welcome": "ट्यूटोरियल में आपका स्वागत है"
+}
