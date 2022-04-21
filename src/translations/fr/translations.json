@@ -1,0 +1,9 @@
+{
+    "abcd": "Anglais",
+    "date_format_one": "{{date, YYYY\/MM\/DD}}",
+    "date_format_two": "{{date, DD-MM-YYYY}}",
+    "hello": "Bonjour le monde",
+    "keyWithCount": "Anne a acheté {{count}} livre",
+    "keyWithCount_plural": "Anne a acheté {{count}} livres",
+    "welcome": "Bienvenue dans le tutoriel"
+}
